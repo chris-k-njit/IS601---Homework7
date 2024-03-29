@@ -9,4 +9,4 @@
 
 ### QR Code and Screenshot/Image of log for successful QR Code creation
 1.  Chris-K-njit GitHub Profile (use QR Code)
-![QR Code for Chris K Njit Github profile](https://github.com/chris-k-njit/IS601---Homework7/blob/main/qr_codes/QRCode_20240329174426.png)
+![QR Code for Chris K Njit Github profile](/images/QRCode_20240329174426.png)
