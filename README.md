@@ -9,4 +9,4 @@
 
 ### QR Code and Screenshot/Image of log for successful QR Code creation
 1.  Chris-K-njit GitHub Profile (use QR Code)
-![Alt text for your image](/images/your-image-name.png)
+![QR Code for Chris K Njit Github profile](/qr_codes/QRCode_20240329174426.png)
