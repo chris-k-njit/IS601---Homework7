@@ -11,4 +11,5 @@
 ![QR Code for Chris K Njit Github profile](/images/QRCode_20240329174426.png)
 
 2. Screenshot of Log of successful QR Code creation
+
 ![Screenshot of log of successful QR Code creation for Chris K Njit Github profile](/images/logsuccess.png)
