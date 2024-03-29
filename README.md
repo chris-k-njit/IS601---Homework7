@@ -1,6 +1,6 @@
 # Homework # 7 - Docker and Python, Create a QR Code to my GithHub Profile
 
-## Instructions and Suubmission Requirements -
+## Instructions and Submission Requirements -
 1.  Create Docker profile and download Docker to desktop.
         - [X] DONE
 2.  Create QR Code that links to my GitHub Profile
@@ -9,4 +9,4 @@
 
 ### QR Code and Screenshot/Image of log for successful QR Code creation
 1.  Chris-K-njit GitHub Profile (use QR Code)
-![QR Code for Chris K Njit Github profile](qr_codes/QRCode_20240329174426.png)
+![QR Code for Chris K Njit Github profile](https://github.com/chris-k-njit/IS601---Homework7/blob/main/qr_codes/QRCode_20240329174426.png)
