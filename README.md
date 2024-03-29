@@ -1,4 +1,4 @@
-# Homework # 7 - Docker and Python, Create a QR Code to my GithHub Profile
+# Homework # 7 - Docker and Python, Create a QR Code to my GitHub Profile
 
 ## Instructions and Submission Requirements -
 1.  Create Docker profile and download Docker to desktop.
